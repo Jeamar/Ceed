@@ -1,0 +1,7 @@
+COMPATIBLE ONLY FOR WINDOWS
+
+A, D: movement
+LShift: defense
+Spacebar: jump
+LClick Whip Attack (20sec cooldown)
+RClick basic attack

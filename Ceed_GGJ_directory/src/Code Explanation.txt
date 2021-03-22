@@ -1,0 +1,3 @@
+There is a lot of checking if the prefabs are facing left or right because 
+we didn´t know how to code nor animate that. Besides that, we think the code
+is kinda self-explanatory!
